@@ -1,3 +1,5 @@
 1)Azerbaijan---Baku
 2)Cuba---Havana
 3)Denmark---Copenagen
+4)France---Paris
+5)Germany---Berlin
